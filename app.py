@@ -1,10 +1,11 @@
+from flask_cors import CORS
 from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
 import os
 
 app = Flask(__name__)
-
+CORS(app)
 # ✅ Load the trained SVM model
 svm_model = joblib.load("svm_model.pkl")
 
