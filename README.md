@@ -36,4 +36,5 @@ Input Features: 11680 (possibly EEG or behavioral signals)
 Output: Risk Category → 0 (Low), 1 (Medium), 2 (High)
 Trained using Scikit-learn
 
-
+##  Author
+This repository was created and maintained by Muhammad Zain Mushtaq 
