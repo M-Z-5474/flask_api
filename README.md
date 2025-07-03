@@ -37,7 +37,11 @@ Format: .xlsx Excel file with 11680 columns
 ## 🧠 About the Model
 Model Type: Support Vector Machine (SVM)
 Input Features: 11680 (possibly EEG or behavioral signals)
-Output: Risk Category → 0 (Low), 1 (Medium), 2 (High)
+Output: 
+Risk Category → 
+0 (Low), 
+1 (Medium), 
+2 (High)
 Trained using Scikit-learn
 
 ##  Author
