@@ -12,8 +12,12 @@ This repository contains a Flask-based REST API for predicting gambling risk lev
 
 ## 🗂️ Repository Structure
 ├── app.py # Main Flask application code
+
 ├── svm_model.pkl # Trained SVM model (11680 input features)
+
 ├── requirements.txt # Required Python packages
+
+├── README.md
 
 ## 📡 API Endpoints
 ## ✅ GET /
