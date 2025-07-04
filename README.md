@@ -8,7 +8,7 @@ This repository contains a Flask-based REST API for predicting gambling risk lev
 - Predicts risk category using a trained SVM model.
 - Returns predictions in JSON format.
 - Cross-Origin Resource Sharing (CORS) enabled for easy integration with front-end/mobile apps.
-- Deployable via Gunicorn for production environments.
+- Deployable via railway.com for production environments.
 
 ## 🗂️ Repository Structure
 ├── app.py # Main Flask application code
